@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-Bonjour, mofiff
-1
-2
-3
-4
-=======
-Bonjour
->>>>>>> parent of 7bd0173... modifier A
+info: File A
+
